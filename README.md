@@ -26,7 +26,7 @@ The application secures passwords using **AES-256 encryption** (CBC mode with PK
 
 Ensure you have installed:
 
-- **Java 23**
+- **Java 17**
 - **MySQL Server**
 - **Maven**
 
