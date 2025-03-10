@@ -150,7 +150,7 @@ curl -X DELETE http://localhost:8080/api/passwords/1
 
 | Category         | Technology/Tool                | Role/Usage                                                     |
 | ---------------- |--------------------------------| -------------------------------------------------------------- |
-| **Language**     | Java 23                       | Core programming language                                      |
+| **Language**     | Java 17                       | Core programming language                                      |
 | **Framework**    | Spring Boot, Spring Web        | Provides auto-configuration, dependency injection, and REST API management |
 | **Data Access**  | Spring Data JPA with Hibernate | Simplifies ORM and database interactions with MySQL            |
 | **Database**     | MySQL                          | Relational database for secure storage                         |
